@@ -4,7 +4,7 @@ import Counter from './components/counter'
 export default function Home() {
   return (
     <main className={styles.main}>
-      <span>Hi Next.js v2</span>
+      <span>Hi Next.js v3</span>
       <Counter />
     </main>
   )

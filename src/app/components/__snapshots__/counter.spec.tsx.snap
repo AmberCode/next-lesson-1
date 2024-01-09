@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Counter should render 1`] = `
+<div>
+  <div>
+    <p>
+      You clicked 
+      0
+       times
+    </p>
+    <button
+      data-testid="buttonCount"
+    >
+      Click Me
+    </button>
+  </div>
+</div>
+`;
